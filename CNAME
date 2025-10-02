@@ -1,1 +1,3 @@
-www.zachjohnson.com
+Type: CNAME
+Name: www.zachjohnson.com
+Value: username.github.io
